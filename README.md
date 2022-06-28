@@ -3,8 +3,8 @@ Hi, I am Ved Banerjee. A newbie programmer from India. End of my first year at c
 
 ## Description
 
-The game starts with one person giving a name of a country. The next person then gives another country begining with the last letter of the first person's country. 
-The thrid person gives another country begining with the last letter of the second country and so on. Simple and a quite popular game.
+The game starts with one person giving a name of a country. The next person then gives another country beginning with the last letter of the first person's country. 
+The thrid person gives another country beginning with the last letter of the second country and so on. Simple and a quite popular game.
 
 ## Features and Rules
 Whatever country you give should be a real country.
