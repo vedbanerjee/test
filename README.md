@@ -1,5 +1,5 @@
 # Atlas The Game
-Hi, I am Ved Banerjee. A newbie programmer from India. End of my first year at college so I decided to make a personal project using whatever knowledge I had, which amounts to not much. Anyways thats a lot about me. Lets talk about the project.
+Hi, I am Ved Banerjee. A newbie programmer from India. End of my first year at college so I decided to make a personal project using whatever knowledge I had. Anyways thats a lot about me. Lets talk about the project.
 
 ## Description
 
@@ -77,6 +77,6 @@ The game stops after one player loses. I figured this would ruin the fun. The ga
 These are the only developments needed
 
 ## How to Use?
-Download the .exe file and run it.(as per my limited knowledge this is how every c program runs)
+Download the .exe file. After downloading run it on an ide or any other terminal on your laptop
 
 ### THANKS FOR STOPPING BY ON THIS PROJECT
