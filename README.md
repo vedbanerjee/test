@@ -2,7 +2,7 @@
 
 ## Description
 
-Avoid using anything apart from numbers when asked to enter the number of players 
+This was a beginner project I made at the end of my first year at university.
 
 The game starts with one person giving a name of a country. The next person then gives another country beginning with the last letter of the first person's country. 
 The thrid person gives another country beginning with the last letter of the second country and so on. A simple and quite popular game.
